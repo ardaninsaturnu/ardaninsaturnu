@@ -6,7 +6,4 @@
 * I am currently working at **Defacto** as Front End Developer. 🐈
 
 
-## technologies
-
-
 
