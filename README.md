@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaninsaturnu&label=Profile%20views&color=0e75b6&style=flat" alt="ardaninsaturnu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardaninsaturnu" alt="ardaninsaturnu" /></a> </p>
-
 - 🔭 I’m currently working on [Defacto theme kit](https://github.com/defacto-dm/theme_base)
 
 - 🌱 I’m currently learning **React.js deeply and Node.js**
